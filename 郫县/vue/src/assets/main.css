@@ -1,0 +1,47 @@
+﻿@import "./css/accordionList.css";
+@import './common.css';
+:root {
+  --mainColor:#509de1; 
+  /* --mainColor: #00B69D;*/
+  --navFontSize: 16px;
+  --mainFontSize: 14px;
+  --subFontSize: 12px;
+  --mainOrderFontSize: 15px;
+  --childOrderFontSize: 14px;
+  --maleColor: #3d9cd2;
+  --femaleColor: #ff7368;
+  --grayBorderColor: #ccc;
+
+  --LongNewColor: #eeee00;
+  --LongUnnewColor: #eead0e;
+  --TempColor: #C6FFC6;
+  --ImmediateColor: #51b80c;
+  --SkinTestColor: rgb(141, 243, 141);
+  --DiscontinueColor: #3494d4;
+  --ExecDisconColor: #b4a89a;
+  --ExecColor: #b4a89a;
+
+  --NeedToDeal: #f1c516;
+  --NeedToStop: rgb(243, 116, 118);
+  --AlreadyDeal: #b4a89a;
+  --AlreadyStop: #C6C3FF;
+  --RefuseDispDrug:#FFC3C6;
+  --SpecmentReject:#FF82FF;
+  --SkinTestAbnorm:#FF7965;
+
+  --specialLevelColor:#FFAE00;
+  --oneLevelColor:#F54D4D;
+  --twoLevelColor:#7CCD7C;
+  --threeLevelColor:#5Ea5e8;
+
+  --execCheckBoxBorderWidth: 2px;
+  --checkBoxBorderRadius: 8px;
+  --checkBoxExpansitonClickAreaSize: -15px;
+  --orderItemInterval: 15px;
+
+  
+}
+
+.cursorPoint {
+  cursor: pointer;
+}
